@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Je suis Jonathan Ribiere</h1>
+<h1 align="center">Jonathan Ribiere</h1>
 <h3 align="center">Développeur Full Stack Junior</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathan881&label=Profile%20views&color=0e75b6&style=flat" alt="jonathan881" /> </p>
